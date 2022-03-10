@@ -10,6 +10,10 @@
 
 拆解教程位于该项目 [docs](https://github.com/mad-center/study-narcissu-of-xifengzui/tree/main/docs) 文件夹下。
 
+## TODO
+- [ ] 补充运行环境说明
+- [ ] 补充字体包
+- [ ] 补充插件列表版本说明
 
 
 ## 致谢
